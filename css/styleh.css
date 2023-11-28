@@ -1,20 +1,28 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+
 .na{
-    margin-top: 38rem;
+    margin-top: 39rem;
     display: flex;
     justify-content: center;
-    border: 1px solid black;
+    border: 1px solid #fffff;
     border-radius: .5rem;
+    background-color:#ffffff;
 
     
 }
 
-.nav{
+div a{
     text-decoration: none;
     font-size: 1.5rem;
-    padding: .6rem;
+    padding: .3rem;
     margin-left: .7rem;
     color: cornflowerblue;
     border-radius: .5rem;
+
     
 }
 
@@ -22,3 +30,4 @@ div a:hover{
     background-color: #302b63
     
 }
+
