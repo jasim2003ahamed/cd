@@ -13,6 +13,8 @@ body{
     width: 100vw;
     height: 70px;
     background-color: black;
+   
+    
 }
 
 .head input{
@@ -36,6 +38,7 @@ input{
     padding: .2rem;
     border-radius: .3rem ;
     border: #ffffff;
+    padding-left: 1rem;
 
 }
 
@@ -46,6 +49,7 @@ input{
     border: 1px solid #3f3d3d;
     border-radius: .5rem;
     background-color:black;
+ 
 }
 
 
@@ -68,3 +72,14 @@ i{
 }
 
 
+.recom{
+    margin-top: 2rem;
+    border: 1px solid white;
+    background-color: black;
+}
+
+.rec{
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    color:white;
+}
