@@ -45,10 +45,12 @@ input{
 .na{
     margin-top: 560px;
     display: flex;
-    justify-content: center;
+    width: 385px;
     border: 1px solid #3f3d3d;
     border-radius: .5rem;
     background-color:black;
+    position: fixed;
+    margin-left: .4rem;
  
 }
 
@@ -57,7 +59,7 @@ input{
     text-decoration: none;
     font-size: 1rem;
     padding: .7rem;
-    margin-left: 1.5rem;
+    margin-left: 1.6rem;
     border-radius: .5rem;
     color: #ffffff;
 }
@@ -83,3 +85,5 @@ i{
     font-size: 1.5rem;
     color:white;
 }
+
+
